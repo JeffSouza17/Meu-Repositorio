@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/JeffSouza17/Meu-Repositorio/issues"
   },
-  "homepage": "https://github.com/JeffSouza17/Meu-Repositorio#readme"
+  "homepage": "https://github.com/JeffSouza17/Meu-Repositorio#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
